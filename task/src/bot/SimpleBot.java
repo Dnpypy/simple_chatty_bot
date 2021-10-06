@@ -9,7 +9,7 @@ public class SimpleBot {
         greet("Denis", "2021"); // change it as you need
         remindName();
         guessAge();
-        count();
+        count();...
         test();
         end();
     }
